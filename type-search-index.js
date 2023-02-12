@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.develhope.Hybernate.entities","l":"Enrollments"},{"p":"it.develhope.Hybernate","l":"HybernateApplication"},{"p":"it.develhope.Hybernate.entities","l":"SchoolClass"},{"p":"it.develhope.Hybernate.entities","l":"Student"}];updateSearchResults();
